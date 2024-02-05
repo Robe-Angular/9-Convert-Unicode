@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9 Convert Unicode", "9 Convert Unicode.csproj", "{93599B92-797B-48ED-9A9D-C5EDAA4865BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93599B92-797B-48ED-9A9D-C5EDAA4865BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93599B92-797B-48ED-9A9D-C5EDAA4865BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93599B92-797B-48ED-9A9D-C5EDAA4865BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93599B92-797B-48ED-9A9D-C5EDAA4865BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB6CF399-AC84-4FBE-883E-15D863339299}
+	EndGlobalSection
+EndGlobal
